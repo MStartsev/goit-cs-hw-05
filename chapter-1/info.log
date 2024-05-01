@@ -1,0 +1,13 @@
+2024-05-01 05:05:28,392 - INFO : Reading file: test\source\a.txt
+2024-05-01 05:05:28,393 - INFO : Reading file: test\source\b.rtf
+2024-05-01 05:05:28,393 - INFO : Reading file: test\source\c.json
+2024-05-01 05:05:28,394 - INFO : Reading file: test\source\e.html
+2024-05-01 05:05:28,394 - INFO : Reading file: test\source\f.html
+2024-05-01 05:05:28,395 - INFO : Reading dir: test\source\text
+2024-05-01 05:05:28,396 - INFO : Reading file: test\source\text\d.txt
+2024-05-01 05:05:28,403 - INFO : File copied successfully: test\source\a.txt
+2024-05-01 05:05:28,405 - INFO : File copied successfully: test\source\c.json
+2024-05-01 05:05:28,405 - INFO : File copied successfully: test\source\b.rtf
+2024-05-01 05:05:28,405 - INFO : File copied successfully: test\source\f.html
+2024-05-01 05:05:28,409 - INFO : File copied successfully: test\source\e.html
+2024-05-01 05:05:28,410 - INFO : File copied successfully: test\source\text\d.txt
