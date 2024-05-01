@@ -25,7 +25,7 @@ async def copy_file(file_path, output_folder):
         destination_folder = output_folder / extension
         await destination_folder.mkdir(parents=True, exist_ok=True)
         await copyfile(file_path, destination_folder / file_path.name)
-        info(f"File copied successfully: {file_path}")
+        info(f"File copied successfully: {destination_folder}\\{file_path.name}")
     except Exception as e:
         error(f"Error copying file {file_path}: {e}")
 
